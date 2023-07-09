@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsh Sahay</h1>
-<h3 align="center">I am currently a student</h3>
+<h3 align="center">A student who wants to be a Data Scientist</h3>
 <img align="right" alt="coding" width="400" src=https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshf1&label=Profile%20views&color=0e75b6&style=flat" alt="arshf1" /> </p>
