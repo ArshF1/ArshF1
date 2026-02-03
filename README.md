@@ -2,7 +2,7 @@
 
 ### On a journey of data experiments and small wins. 🚀
 
-<img align="right" alt="coding" width="260" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="top" alt="coding" width="260" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=arshf1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
