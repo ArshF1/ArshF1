@@ -10,7 +10,7 @@
 
 - 🌱 Currently learning **Python**, **Linux**, **MySQL**
 - ⚡ Fun fact: **I am funny 😁**
-- 🔭 I’m working on machine learning projects for greener manufacturing
+- 🔭 I’m working on machine learning projects
 
 ---
 
