@@ -16,7 +16,7 @@
 
 **Connect with me**
 
-- LinkedIn: https://www.linkedin.com/in/arsh-sahay-44622512b
+- LinkedIn: https://www.linkedin.com/in/arshsahay
 
 ---
 
